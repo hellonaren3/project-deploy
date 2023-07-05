@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# update package
+# update packagee
 sudo yum -y update
 
 # install git
